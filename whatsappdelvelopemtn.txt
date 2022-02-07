@@ -12,3 +12,5 @@ ruby
 tableau
 
 powerBi
+
+hiding the last seen
